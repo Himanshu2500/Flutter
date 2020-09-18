@@ -1,6 +1,6 @@
-# intro_app
+# Intro_App
 
-A new Flutter project.
+My first Flutter project.It just represents the bio data of a person such as Name,Pic,Address,Contacts,etc.
 
 ## Getting Started
 
